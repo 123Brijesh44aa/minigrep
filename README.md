@@ -123,7 +123,7 @@ To an admiring bog!
 Listing 12-3: A poem by Emily Dickinson makes a good test case.
 With the text in place, edit src/main.rs and add code to read the file, as shown in Listing 12-4.
 
-```
+``` rust
 Filename: src/main.rs
 use std::env;
 use std::fs;
