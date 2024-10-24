@@ -147,7 +147,7 @@ After that, we again add a temporary println! statement that prints the value of
 
 Let’s run this code with any string as the first command line argument (because we haven’t implemented the searching part yet) and the poem.txt file as the second argument:
 
-```
+``` 
 $ cargo run -- the poem.txt
    Compiling minigrep v0.1.0 (file:///projects/minigrep)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.0s
@@ -164,6 +164,7 @@ How dreary to be somebody!
 How public, like a frog
 To tell your name the livelong day
 To an admiring bog!
+
 ```
 
 
