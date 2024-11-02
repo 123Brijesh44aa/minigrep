@@ -1,4 +1,4 @@
-# An I/O project : Building a Command Line Program to Learn Rust File System.         
+# An I/O project : Building a Command Line Program to Learn Rust File System.              
 
 
 Let's break this down into simpler terms:
